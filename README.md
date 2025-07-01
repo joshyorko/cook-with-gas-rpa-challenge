@@ -1,6 +1,4 @@
-Here’s a README draft for your cook-with-gas-rpa-challenge repo, keeping it fun and on-theme:
 
----
 
 # Cook With Gas: The RPA Challenge
 

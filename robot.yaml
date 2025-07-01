@@ -3,7 +3,7 @@
 
 tasks:
   CookingWithGas:
-    shell: python -m robocorp.tasks run tasks.py
+    shell: python -m robocorp.tasks run tasks.py -t solve_challenge
 
 environmentConfigs:
   - environment_windows_amd64_freeze.yaml
